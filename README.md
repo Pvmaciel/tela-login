@@ -1,4 +1,4 @@
-# tela login
+# Prototipo tela de login
  
 Minha primeira tela de login feita com auxilio de um tutorial do htmlecsspro.
 
